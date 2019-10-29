@@ -12,6 +12,8 @@
 
 ex) Array.prototype.slice.call(arguments);
 배열의 프로토타입에 있는 slice 함수를 빌려쓰고 ,
+
+
 this 는 call을 사용하여 arguments를 가리키게 함.
 
    
