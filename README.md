@@ -1,5 +1,7 @@
 # javascript_arguments
-arguments객체
+## arguments
+
+
 함수라면 처음부터 가지고 있는 숨겨진 속성.
 
 
